@@ -1,1 +1,1 @@
-# dummy
+print("Hello World")
